@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "features_in_library",
+    "features_library"
+]
